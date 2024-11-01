@@ -45,3 +45,8 @@ Most of the attacks occur in the following locations:
 ## Conclusions
 - Potential implications for raising awareness in the hotspot areas, especially during the peak time.
 - Lack of data in developing countries.
+
+## Presentation with more information
+
+You can find a presentation with more information in the following link: 
+- https://docs.google.com/presentation/d/1PM7VvpreuWQKUrp7rKslznPlSisxPeeZ0w32NIgwujU/edit#slide=id.p
